@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "記憶",
+  "base_artist": "Tani Yuuki",
+  "createdAt": "2026-03-20T12:05:46.720256Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "記憶~君がくれた道標~",
+      "artist": "T-ARA",
+      "has_synced": false,
+      "path": "select/01_記憶~君がくれた道標~_T-ARA.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "記憶 ~君がくれた道標~",
+      "artist": "T-ARA",
+      "has_synced": false,
+      "path": "select/02_記憶_~君がくれた道標~_T-ARA.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "記憶 Feat. Goku",
+      "artist": "Younha",
+      "has_synced": false,
+      "path": "select/03_記憶_Feat._Goku_Younha.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "記憶 - Kioku",
+      "artist": "Tani Yuuki",
+      "has_synced": true,
+      "path": "select/04_記憶_-_Kioku_Tani_Yuuki.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "記憶",
+      "artist": "See-Saw",
+      "has_synced": false,
+      "path": "select/05_記憶_See-Saw.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "記憶",
+      "artist": "Tani Yuuki",
+      "has_synced": false,
+      "path": "select/pl_01_記憶_Tani_Yuuki.txt"
+    }
+  ]
+}
